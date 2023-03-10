@@ -175,9 +175,9 @@ rspec spec
 
 👤 **Oluwatoyin Olaoye**
 
-- GitHub: [![GitHub Badge](https://img.shields.io/badge/-AbayomiOlaoye--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/abayomiolaoye)
-- Twitter: [![Twitter Badge](https://img.shields.io/badge/-Oluwatoyin__db-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/oloayeelijah)
-- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-Oluwatoyin--db-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/oluwatoyinolaoye)
+- GitHub => [![GitHub Badge](https://img.shields.io/badge/-AbayomiOlaoye-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/abayomiolaoye)
+- Twitter => [![Twitter Badge](https://img.shields.io/badge/-Oluwatoyin-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/oloayeelijah)
+- LinkedIn => [![LinkedIn Badge](https://img.shields.io/badge/-Oluwatoyin-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/oluwatoyinolaoye)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
