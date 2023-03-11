@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Budget App</b></h3>
+  <h3><b>BudgetWise App</b></h3>
 
 </div>
 
@@ -75,7 +75,7 @@
 
 |Welcome Page| SignUp page|Login Page| Categories page|Transaction page|
 |:--------------:|:-----------------:|:--------------:|:-----------------:|-----------------:|
-|![your design]()|![figma]()|![your design]()|![figma]()|![figma]()|
+|![image](https://user-images.githubusercontent.com/99715640/224487553-0647cd0c-8bdb-4f8d-b875-985574f06b1f.png)|![image](https://user-images.githubusercontent.com/99715640/224487599-7d595866-98e1-4343-ac18-3cbe53cf9e3e.png)|![image](https://user-images.githubusercontent.com/99715640/224487652-1c5910df-b3b9-411f-9b06-22151bd6617c.png)|![image](https://user-images.githubusercontent.com/99715640/224487799-f07b56f2-1265-446e-b8d1-7aabd7c32593.png)|![image](https://user-images.githubusercontent.com/99715640/224487860-d9638dcf-1e1c-446e-9425-230ffc685fbc.png)|
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
