@@ -31,7 +31,7 @@ RSpec.feature 'records index page', js: true, type: :feature do
     expect(page).to have_content 'NGN 1000'
   end
 
-  it 'should have a "ADD A NEW CATEGORY" button' do
-    expect(page).to have_content 'ADD A NEW TRANSACTION'
+  it 'should have a "TRANSACTION" button' do
+    expect(page).to have_content 'TRANSACTION'
   end
 end

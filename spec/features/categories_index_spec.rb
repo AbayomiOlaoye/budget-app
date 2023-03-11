@@ -28,7 +28,7 @@ RSpec.feature 'categories index page', js: true, type: :feature do
     expect(page).to have_content 'Total: NGN 0'
   end
 
-  it 'should have a "Add a new category" button' do
-    expect(page).to have_content 'ADD A NEW CATEGORY'
+  it 'should have a "CATEGORIES" button' do
+    expect(page).to have_content 'CATEGORIES'
   end
 end
