@@ -19,7 +19,7 @@ body,
 
 body {
   height: 100vh;
-  background-color: #ecedee;
+  background-color: #fff;
 }
 
 .splash,
@@ -33,7 +33,7 @@ body {
 .splash h1 {
   color: #434b54;
   font-family: 'proxima nova bold', sans-serif;
-  font-style: italic;
+  font-weight: 700;
 }
 
 .buttons,
@@ -88,12 +88,6 @@ body {
 .loginBtn {
   border: none;
   background: none;
-}
-
-.textField,
-.stuff {
-  border-left: none;
-  border-right: none;
 }
 
 .icons {

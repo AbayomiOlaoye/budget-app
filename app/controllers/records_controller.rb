@@ -23,6 +23,6 @@ class RecordsController < ApplicationController
   private
 
   def record_params
-    params.require(:record).permit(:name, :amount, category_ids: [])
+    params.require(:record).permit(:name, :amount, categories_ids: [])
   end
 end

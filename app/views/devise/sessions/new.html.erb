@@ -8,13 +8,13 @@
         LOGIN
       </div>
       <div class="actions">
-        <%= f.submit "Log in", class: "loginBtn" %>
+        <%= f.submit "Log in", class: "loginBtn btn" %>
       </div>
     </div>
   
     <%= render partial: "devise/shared/notification"%>
   
-    <div class="textField mt-3 md-3">
+    <div class="textField container mt-5 md-3 row g-2">
       <div class="field">
         <%= f.email_field :email, placeholder: "Email", autofocus: true, autocomplete: "email", class: "form-control stuff" %>
       </div>
